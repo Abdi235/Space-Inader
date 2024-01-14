@@ -1,5 +1,5 @@
 
-Title: Space Invadar - The Galactic Confrontation
+Title: Space Invadar 
 
 Description:
 
